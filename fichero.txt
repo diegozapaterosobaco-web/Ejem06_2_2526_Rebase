@@ -1,3 +1,10 @@
 Primer Mod
 Segundo Mod
+<<<<<<< HEAD
 Tercer Mod
+=======
+Tercer Mod
+Cuarta Mod
+Quinta Mod
+Sexta Mod
+>>>>>>> 783e3f3 (Sexta Mod)
